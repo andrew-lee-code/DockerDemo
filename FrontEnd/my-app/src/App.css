@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.chart-title {
+  margin-top: 40px;
+  margin-left: 50px;
+  font-size: 2em;
+  text-align: left;
+  color: #495963;
+}
+
+.chart-area {
+  padding-left: 50px;
+  margin-bottom: 50px;
+}
